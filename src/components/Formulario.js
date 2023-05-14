@@ -123,7 +123,7 @@ const style = StyleSheet.create({
 
     },
     btnCotizar:{
-        backgroundColor:'#5e49e2',
+        backgroundColor:'#4c669f',
         padding:10,
         marginTop:40
     },
